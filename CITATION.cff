@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying preprint when using this research package."
+title: "When OCR Changes the Script, Does It Preserve the Number? A Controlled Evaluation of Numeral Recognition"
+authors:
+  - family-names: "NK"
+    given-names: "Syamjith"
+version: "1.0.0"
+date-released: "2026-10-09"
+url: "https://syamjithnk.com/ocr-numeral-fidelity"
+repository-code: "https://github.com/Syamjith-NK/ocr-numeral-fidelity-public"
+type: dataset
+doi: "10.5281/zenodo.23249467"

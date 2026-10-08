@@ -1,0 +1,19 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 the authors
+
+The non-software contents of this release -- the frozen pre-registration, the
+test-value dataset, every raw model output, the retained control failures and
+the recorded analysis corrections -- are licensed under CC BY 4.0.
+
+You are free to share and adapt this material for any purpose, including
+commercially, provided you give appropriate credit, link to the licence, and
+indicate if changes were made.
+
+Full licence text: https://creativecommons.org/licenses/by/4.0/legalcode
+Summary:           https://creativecommons.org/licenses/by/4.0/
+
+NOTE ON THE EVALUATED MODELS. This release contains no model weights. The
+outputs recorded here were produced by third-party models, each named by its
+published identifier in every trial record; those models carry their own
+licences, which this release does not alter or extend.
